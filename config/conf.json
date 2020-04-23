@@ -1,0 +1,23 @@
+{
+    "address": "localhost",
+    "port": 8000,
+    "findFile": false,
+    "debug": true,
+    "path": {
+        "root": "../",
+        "template": "assets/template.html",
+        "certfile": "/etc/letsencrypt/live/randacek.dev/fullchain.pem",
+        "keyfile": "/etc/letsencrypt/live/randacek.dev/privkey.pem",
+        "notfound": "content/404.md",
+        "contentTypes": "config/contentTypes",
+        "rules": "config/rules",
+        "navbar": "config/navbar",
+        "log": "log"
+    },
+    "log": {
+        "timepre": "[",
+        "timepos": "]",
+        "separator": " - ",
+        "saveToFile": false
+    }
+}

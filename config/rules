@@ -1,0 +1,15 @@
+         = content/home.md
+home     = content/home.md
+xkcd     = content/xkcd.md
+tools    = content/tools.md
+contact  = content/contact.md
+projects = content/projects.md
+
+css  = assets/styles.css
+ico  = assets/icon.png
+font = assets/inconsolata.ttf
+
+robots.txt  = assets/robots.txt
+sitemap.xml = assets/sitemap.xml
+
+setup = assets/setup.png

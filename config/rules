@@ -6,7 +6,7 @@ contact  = content/contact.md
 projects = content/projects.md
 
 css  = assets/styles.css
-ico  = assets/icon.png
+ico  = assets/favicon.png
 font = assets/inconsolata.ttf
 
 robots.txt  = assets/robots.txt

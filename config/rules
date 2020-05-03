@@ -13,3 +13,5 @@ robots.txt  = assets/robots.txt
 sitemap.xml = assets/sitemap.xml
 
 setup = assets/setup.png
+
+stuff = content/stuff.md

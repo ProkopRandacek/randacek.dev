@@ -1,5 +1,5 @@
-names = Home ; My fav xkcd ; Tools ; Contact ; Projects
-links = home ; xkcd        ; tools ; contact ; projects
+names = Home ; My fav xkcd ; Tools ; Contact ; Projects ; Stuff
+links = home ; xkcd        ; tools ; contact ; projects ; stuff
 
 pre           = <span
 current       = &sclass&e"current"

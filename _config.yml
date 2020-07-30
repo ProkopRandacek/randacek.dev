@@ -1,2 +1,10 @@
-host: localhost
+host: 10.10.10.197
 port: 443
+
+url: "https://randacek.dev"
+
+exclude: [
+    "README.md",
+    "run",
+    "runlocal",
+]

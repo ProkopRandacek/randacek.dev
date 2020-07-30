@@ -1,7 +1,16 @@
+---
+permalink: /xkcd
+title: Fav xkcd
+layout: default
+order: 1
+---
+
 # Xkcd
 
 This is a list of my favorite [xkcd](https://xkcd.com) comics.
-******
+
+***
+
 - [44](https://xkcd.com/44) - Love
 - [70](https://xkcd.com/70) - Guitar Hero
 - [85](https://xkcd.com/85) - Paths

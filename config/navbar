@@ -1,9 +1,0 @@
-names = Home ; My fav xkcd ; Tools ; Contact ; Projects ; Stuff
-links = home ; xkcd        ; tools ; contact ; projects ; stuff
-
-pre           = <span
-current       = &sclass&e"current"
-prepath       = ><a href&e"/ # &e = "="
-itemSeparator = ">
-pos           = </a></span>
-separator     = <span> | </span>

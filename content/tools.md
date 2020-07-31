@@ -14,11 +14,13 @@ This is a list of software I use and think it is worth of sharing.
 
 ## Desktop environment
 
-- [i3](https://i3wm.org/) - I love how minimalistic it is. I have [this setup]({{'assets/setup.png' | absolute_url}})  
+- [i3](https://i3wm.org/) - I love how minimalistic it is. I have [this setup](/assets/setup.png)  
 
-## Shell
+## Command line
 
-- todoooooododooo
+- [fish](https://fishshell.com) - bash + colors!.. kinda... Shell with autosuggestions. Cant live without it.
+- [exa](https://the.exa.website) - ls + colors! `alias ls = "exa --group-directories-first"`
+- [bat](https://github.com/sharkdp/bat) - cat + colors!
 
 ## Text editor
 
@@ -29,4 +31,4 @@ This is a list of software I use and think it is worth of sharing.
 
 - [Firefox](https://mozilla.org/en-US/firefox/browsers/) - It has got nicer page inspector than Chrome  
 - [Tree Style Tab](https://github.com/piroor/treestyletab) - Sorts tabs into trees on right of the browser. Absolute necessary extension for browsing the web.  
-- [Duck duck go](https://ddg.gg/) - It has got darkmode! Why isn't everyone using this?  
+- [Duck duck go](https://ddg.gg/) - It has got darkmode! Why isn't everyone using this? And also something about privacy

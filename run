@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec jekyll serve
+bundle exec jekyll serve --ssl-key privkey.pem --ssl-cert fullchain.pem

@@ -2,9 +2,12 @@ host: 10.10.10.197
 port: 443
 
 url: "https://randacek.dev"
+baseurl: ""
 
 exclude: [
     "README.md",
     "run",
     "runlocal",
+    "fullchain.pem",
+    "privkey.pem",
 ]

@@ -18,7 +18,7 @@ This is a list of software I use and think it is worth of sharing.
 
 ## Command line
 
-- [fish](https://fishshell.com) - bash + colors!.. kinda... Shell with autosuggestions. Cant live without it.
+- [fish](https://fishshell.com) - bash + colors!.. kinda\.\.\. Shell with autosuggestions. Cant live without it.
 - [exa](https://the.exa.website) - ls + colors! `alias ls = "exa --group-directories-first"`
 - [bat](https://github.com/sharkdp/bat) - cat + colors!
 

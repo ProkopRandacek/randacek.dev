@@ -4,6 +4,8 @@ port: 443
 url: "https://randacek.dev"
 baseurl: ""
 
+markdown: kramdown
+
 include: ['.htaccess']
 
 exclude: [
@@ -12,4 +14,5 @@ exclude: [
     "runlocal",
     "fullchain.pem",
     "privkey.pem",
+    "content/stuff.md"
 ]

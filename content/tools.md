@@ -14,12 +14,12 @@ This is a list of software I use and think it is worth of sharing.
 
 ## Desktop environment
 
-- [i3](https://i3wm.org/) - I love how minimalistic it is. I have [this setup](/assets/setup.png)  
+- [i3](https://i3wm.org/) - I love how minimalistic it is.
 
 ## Command line
 
 - [fish](https://fishshell.com) - bash + colors!.. kinda\.\.\. Shell with autosuggestions. Cant live without it.
-- [exa](https://the.exa.website) - ls + colors! `alias ls = "exa --group-directories-first"`
+- [exa](https://the.exa.website) - ls + colors! Dont forge to `--group-directories-first`
 - [bat](https://github.com/sharkdp/bat) - cat + colors!
 
 ## Text editor

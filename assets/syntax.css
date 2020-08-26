@@ -1,3 +1,8 @@
+code {
+	tab-size: 4;
+	-moz-tab-size: 4;
+}
+
 .highlighter-rouge {
 	border-radius: 6px;
 	padding: 1.5px 3px;

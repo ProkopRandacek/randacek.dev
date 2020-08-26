@@ -1,3 +1,20 @@
+.highlighter-rouge {
+	pre {
+		overflow-x: auto;
+		padding: 3px;
+	}
+
+	border-radius: 6px;
+
+	padding: 1.5px 3px;
+	margin-bottom: 20px;
+}
+
+/*.highlight, .highlighter-rouge {
+	background-color: $light-code-background-color; 
+	border-color: $light-code-background-color;
+}
+
 /* https://raw.githubusercontent.com/jwarby/pygments-css/master/vim.css */
 .highlight pre { background-color: #222222 }
 .highlight .hll { background-color: #222222 }

@@ -17,20 +17,20 @@ body {
     background-color: #222831;
 }
 
-h1 {
+h1, h3 {
     margin-bottom: 5px;
     padding-top: 20px;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 hr {
     margin-top: 2em;
     margin-bottom: 1em;
     border-color: #ff7315; 
-}
-
-h2 {
-    margin-top: 5px;
-    margin-bottom: 5px;
 }
 
 .header {

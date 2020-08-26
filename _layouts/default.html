@@ -21,7 +21,7 @@
 		<div class="navbar">
 			{% assign sections_sorted = site.pages | sort: 'order' %}
 			{% for p in sections_sorted %}
-				{% if p.title and p.title != 404 %}
+				{% if p.order and p.title and p.title != 404 %}
 					{% if p.title == page.title %}
 						<span class="current"><a href="{{p.url}}">{{p.title}}</a></span>
 					{% else %}

@@ -5,6 +5,7 @@ url: "https://randacek.dev"
 baseurl: ""
 
 markdown: kramdown
+highlighter: rouge
 
 include: ['.htaccess']
 

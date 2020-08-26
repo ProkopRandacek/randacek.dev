@@ -1,9 +1,11 @@
 ---
 permalink: /stuff/backuping
-title: Backuping
 layout: default
+title: Backuping
 ---
 # Backuping
+
+***
 
 They always say that its important but I never do it. Well when I broke my Linux installation for the 3rd time, I decided to finally do it.  
 
@@ -17,7 +19,7 @@ I didn't want to use any existing program because I had a specific idea how I wa
 5. Installed packages are backed up too
 6. Backup on command and boot
 
-#### Lets start with choosing files to be backed up
+### Lets start with choosing files to be backed up
 add_to_backup_list.fish
 ```fish
 function add_to_backup_list

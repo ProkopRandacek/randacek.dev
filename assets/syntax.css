@@ -1,7 +1,5 @@
 .highlighter-rouge {
-
 	border-radius: 6px;
-
 	padding: 1.5px 3px;
 	margin-bottom: 20px;
 }
@@ -12,8 +10,8 @@
 }
 
 /*.highlight, .highlighter-rouge {
-	background-color: $light-code-background-color; 
-	border-color: $light-code-background-color;
+	background-color: #121212;
+	border-color: #121212;
 }
 
 /* https://raw.githubusercontent.com/jwarby/pygments-css/master/vim.css */

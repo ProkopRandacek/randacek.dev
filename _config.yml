@@ -15,5 +15,4 @@ exclude: [
     "runlocal",
     "fullchain.pem",
     "privkey.pem",
-    "content/stuff.md"
 ]

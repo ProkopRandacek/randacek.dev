@@ -9,7 +9,7 @@ title: Backuping
 
 They always say that its important but I never do it. Well when I broke my Linux installation for the 3rd time, I decided to finally do it.  
 
-I didn't want to use any existing program because I had a specific idea how I want my data to be backed up and I was too lazy to search for a existing solution that would satisfy me. So I made my own. It ended up being so simple and minimalistic, that I though that maybe somebody else would appreciate it too :D  
+I didn’t want to use any existing program because I had a specific idea of how I want my data to be backed up and I was too lazy to search for an existing solution that would satisfy me. So I made my own. It ended up being so simple and minimalistic, that I thought that maybe somebody else would appreciate it too
 
 ### My idea was:  
 1. Command line (duh)

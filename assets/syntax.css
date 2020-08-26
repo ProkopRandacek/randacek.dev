@@ -1,13 +1,14 @@
 .highlighter-rouge {
-	pre {
-		overflow-x: auto;
-		padding: 3px;
-	}
 
 	border-radius: 6px;
 
 	padding: 1.5px 3px;
 	margin-bottom: 20px;
+}
+
+.highlighter-rouge pre {
+	overflow-x: auto;
+	padding: 3px;
 }
 
 /*.highlight, .highlighter-rouge {

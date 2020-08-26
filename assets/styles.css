@@ -19,6 +19,12 @@ body {
     background-color: #222831;
 }
 
+.highlighter-rouge {
+	border-radius: 6px;
+	padding: 1.5px 3px;
+	margin-bottom: 20px;
+}
+
 h1, h3 {
     margin-bottom: 5px;
     padding-top: 20px;

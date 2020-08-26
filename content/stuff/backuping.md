@@ -21,7 +21,7 @@ I didn't want to use any existing program because I had a specific idea how I wa
 
 ### Lets start with choosing files to be backed up
 add_to_backup_list.fish
-```fish
+```bash
 function add_to_backup_list
 	echo $PWD/$argv >> ~/backuplist
 end

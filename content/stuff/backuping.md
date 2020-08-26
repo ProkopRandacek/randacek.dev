@@ -9,7 +9,7 @@ title: Backuping
 
 They always say that its important but I never do it. Well when I broke my Linux installation for the 3rd time, I decided to finally do it.  
 
-I didn’t want to use any existing program because I had a specific idea of how I want my data to be backed up and I was too lazy to search for an existing solution that would satisfy me. So I made my own. It ended up being so simple and minimalistic, that I thought that maybe somebody else would appreciate it too
+I didn’t want to use any existing program because I had a specific idea of how I want my data to be backed up and I was too lazy to search for an existing solution that would satisfy me. So I made my own. It ended up being so simple and minimalistic, that I thought that maybe somebody else would appreciate it too :D
 
 ### My idea was:  
 1. Command line (duh)
@@ -74,4 +74,5 @@ ExecStart=sudo -u prokop /home/prokop/scripts/backup/backup.sh
 [Install]
 WantedBy=multi-user.target
 ```
-`sudo -u prokop` because services are by default executed by root and root has wrong home directory. It came to my mind that anyone could replace the `backup.sh` file and run anything on my machine on boot. Luckily most of my people that would potentially have access to my machines have no idea how to use Linux.  
+`sudo -u prokop` because services are by default executed by root and root has wrong home directory.  
+It came to my mind that anyone could replace the `backup.sh` file and run anything on my machine on boot. Luckily most of people that would potentially have access to my machines have no idea how to use Linux :3

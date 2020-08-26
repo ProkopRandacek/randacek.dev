@@ -45,6 +45,10 @@ hr {
 	margin-top: 0px;
 }
 
+.header p {
+	padding-bottom: 0px;
+}
+
 .content {
     max-width: 700px;
     padding-left: 1em;

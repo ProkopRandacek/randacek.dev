@@ -1,31 +1,35 @@
+---
+permalink: /stuff/fac/trainstop
+layout: default
+title: Train stop enabler
+---
 <script>
 function update()
 {
-var loader = document.getElementById("type").value
-var trains = document.getElementById("trains").value
-var stack  = document.getElementById("stack").value
-var sides = document.getElementById("sides").value
-if (loader == "loader")
-{
-var num = trains * 40 * stack
-document.getElementById("sides").style.display = "none"
-document.getElementById("sidesLabel").style.display = "none"
-document.getElementById("result").innerHTML = 'Set the condition to "Enable/disable" and "[item] > ' + num + '"'
-}
-else
-{
-if (sides == "yes") { s = 2 }
-else { s = 1 }
-var num = (trains * 6 * 48 * stack * s) - (trains * 40 * stack)
-document.getElementById("sides").style.display = ""
-document.getElementById("sidesLabel").style.display = ""
-document.getElementById("result").innerHTML = 'Set the condition to "Enable/disable" and "[item] < ' + num + '"'
-}
+	var loader = document.getElementById("type").value
+	var trains = document.getElementById("trains").value
+	var stack  = document.getElementById("stack").value
+	var sides = document.getElementById("sides").value
+	if (loader == "loader")
+	{
+		var num = trains * 40 * stack
+		document.getElementById("sides").style.display = "none"
+		document.getElementById("sidesLabel").style.display = "none"
+		document.getElementById("result").innerHTML = 'Set the condition to "Enable/disable" and "[item] > ' + num + '"'
+	}
+	else
+	{
+		if (sides == "yes") { s = 2 }
+		else { s = 1 }
+		var num = (trains * 6 * 48 * stack * s) - (trains * 40 * stack)
+		document.getElementById("sides").style.display = ""
+		document.getElementById("sidesLabel").style.display = ""
+		document.getElementById("result").innerHTML = 'Set the condition to "Enable/disable" and "[item] < ' + num + '"'
+	}
 }
 </script>
-# Smart Train Stop Enabler Calcualtor
-Description wip
-******
+# Smart train stop enabler
+***
 <form onchange="update()">
 	<label for="type">Type of station:</label>
 	<select id="type" name="type">

@@ -1,14 +1,14 @@
 host: 10.10.10.197
 port: 443
 
-url: "https://randacek.dev"
-baseurl: ""
-
 markdown: kramdown
 highlighter: rouge
 
 plugins:
   - jekyll-feed
+
+url: "https://randacek.dev"
+baseurl: ""
 
 include: ['.htaccess']
 

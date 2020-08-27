@@ -11,7 +11,6 @@ This is a list of my favorite [xkcd](https://xkcd.com) comics.
 
 ***
 
-- [44](https://xkcd.com/44) - Love
 - [70](https://xkcd.com/70) - Guitar Hero
 - [85](https://xkcd.com/85) - Paths
 - [135](https://xkcd.com/135) - Substitute
@@ -150,3 +149,11 @@ This is a list of my favorite [xkcd](https://xkcd.com) comics.
 - [2270](https://xkcd.com/2270) - Picking Bad Stock
 - [2274](https://xkcd.com/2274) - Stargazing 3
 - [2283](https://xkcd.com/2283) - Exa-Exabyte
+- [2290](https://xkcd.com/2290) - Homemade Masks
+- [2298](https://xkcd.com/2298) - Coronavirus Genome
+- [2301](https://xkcd.com/2301) - Turtle Sandwich Standard Model
+- [2302](https://xkcd.com/2302) - 2020 Google Trends
+- [2324](https://xkcd.com/2324) - Old Days 2
+- [2337](https://xkcd.com/2337) - Asterisk Corrections
+- [2341](https://xkcd.com/2341) - Scientist Tech Help
+- [2343](https://xkcd.com/2343) - Mathematical Symbol Fight

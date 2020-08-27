@@ -19,7 +19,7 @@ This is a list of software I use and think it is worth of sharing.
 ## Command line
 
 - [fish](https://fishshell.com) - bash + colors!.. kinda\.\.\. Shell with autosuggestions. Cant live without it.
-- [exa](https://the.exa.website) - ls + colors! Dont forge to `--group-directories-first`
+- [exa](https://the.exa.website) - ls + colors! Don't forget to `--group-directories-first`
 - [bat](https://github.com/sharkdp/bat) - cat + colors!
 
 ## Text editor

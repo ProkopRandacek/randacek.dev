@@ -3,7 +3,9 @@ permalink: /contact
 title: Contact
 layout: default
 order: 4
+noindex: 1
 ---
+
 # Contact
 My email adress is prokop at <!-- ramdom@gmail.com comment@lol.com --> randacek dot dev.  
 

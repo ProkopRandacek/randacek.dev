@@ -7,6 +7,9 @@
 		<meta name="keyworlds"   content="Prokop Randáček">
 		<meta name="description" content="Prokop Randáček's personal website">
 		<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+		{% if page.noindex == 1 %}
+		<meta name="robots"      content="noindex">
+		{% endif %}
 
 		<link rel="stylesheet" href="/assets/styles.css"  type="text/css">
 		<link rel="icon"       href="/assets/favicon.png" type="image/png">

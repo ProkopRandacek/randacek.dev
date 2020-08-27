@@ -45,7 +45,6 @@ hr {
 	margin-top: 0px;
 }
 
-
 .content {
     max-width: 700px;
     padding-left: 1em;
@@ -59,6 +58,7 @@ hr {
 }
 
 input, select { color: black; }
+.header p { margin-bottom: 0px; }
 
 p { margin-bottom: 20px; }
 ul { padding-left: 20px; }

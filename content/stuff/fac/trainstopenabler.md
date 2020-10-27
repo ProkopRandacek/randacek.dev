@@ -1,5 +1,5 @@
 ---
-permalink: /stuff/fac/trainstop
+permalink: /s/f/trainstop
 layout: default
 title: Train stop enabler
 ---

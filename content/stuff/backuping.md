@@ -1,5 +1,5 @@
 ---
-permalink: /stuff/backuping
+permalink: /s/backuping
 layout: default
 title: Backuping
 ---

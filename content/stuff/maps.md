@@ -1,5 +1,5 @@
 ---
-permalink: /s/maps/
+permalink: /s/maps
 title: Maps
 layout: default
 ---

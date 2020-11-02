@@ -1,5 +1,5 @@
 ---
-permalink: /s/maps
+permalink: /s/maps/
 title: Maps
 layout: default
 ---
@@ -7,5 +7,5 @@ layout: default
 
 ******
 
-- [Our Minecraft SMP Map](/s/maps/smp)
+- [Our Minecraft SMP Map](/s/m/smp)
 <!--- [My Factorio Map](/)-->

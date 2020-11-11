@@ -5,7 +5,7 @@ layout: default
 order: 3
 ---
 # Tools
-This is a list of software I use and think it is worth of sharing.
+This is a list of software I use and think it is worth of sharing or want to flex about it :D
 
 ***
 
@@ -14,21 +14,21 @@ This is a list of software I use and think it is worth of sharing.
 
 ## Desktop environment
 
-- [i3](https://i3wm.org/) - I love how minimalistic it is.
+- [i3](https://i3wm.org/) - I need fast environment that I can use even on the weak machines I have. (Gnome was lagging my notebook)
 
 ## Command line
 
-- [fish](https://fishshell.com) - bash + colors!.. kinda\.\.\. Shell with autosuggestions. Cant live without it.
-- [exa](https://the.exa.website) - ls + colors! Don't forget to `--group-directories-first`
+- [zsh](https://fishshell.com) - I don't even know why. Checkout my [.zshrc](https://github.com/ProkopRandacek/dotfiles/blob/master/.zshrc). I think there are some cool things
+- [exa](https://the.exa.website) - ls + colors!
 - [bat](https://github.com/sharkdp/bat) - cat + colors!
 
 ## Text editor
 
 - [Neovim](https://neovim.io/) - The ultimate text editor which provides huge amount of key combos for editing text files of any kind.  
-- [Vim airline](https://github.com/vim-airline/vim-airline) - makes neovim more colorful.  
+- [Vim airline](https://github.com/vim-airline/vim-airline) - + colors!
 
 ## Browser
 
-- [Firefox](https://mozilla.org/en-US/firefox/browsers/) - It has got nicer page inspector than Chrome  
+- [Firefox](https://mozilla.org/en-US/firefox/browsers/) - Chrome is alright too.
 - [Tree Style Tab](https://github.com/piroor/treestyletab) - Sorts tabs into trees on right of the browser. Absolute necessary extension for browsing the web.  
-- [Duck duck go](https://ddg.gg/) - It has got darkmode! Why isn't everyone using this? And also something about privacy
+- [Duck duck go](https://ddg.gg/) - It has got darkmode! Why isn't everyone using this? And also something about privacy.

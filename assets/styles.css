@@ -59,6 +59,7 @@ hr {
 p { margin-bottom: 20px; }
 ul { padding-left: 20px; }
 .t { padding-bottom: 1em; }
+img { max-width: 100%; }
 .navbar { padding-top: 10px; }
 .navbar a { text-decoration: none; }
 .header p { margin-bottom: 0px; }

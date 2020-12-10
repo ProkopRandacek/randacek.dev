@@ -8,7 +8,6 @@ order: 5
 
 ***
 
-<!--- [Factorio/](/stuff/fac)
-- [Minecraft/](/stuff/mc)-->
-- [Backuping](/s/backuping)
+- [Portals](/portals)
 - [Maps](/s/maps)
+- [Backuping](/s/backuping)

@@ -2,6 +2,7 @@
 permalink: /s/backuping
 layout: default
 title: Backuping
+syntax: 1
 ---
 # Backuping
 

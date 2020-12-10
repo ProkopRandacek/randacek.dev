@@ -11,8 +11,13 @@
 		<meta name="robots"      content="noindex">
 		{% endif %}
 
-		<link rel="stylesheet" href="/assets/styles.css"   type="text/css">
-		<link rel="icon"       href="/assets/favicon.jpeg" type="image/png">
+		<link rel="stylesheet" href="/assets/styles.css"     type="text/css">
+		{%- if page.syntax == 1 -%}
+		<link rel="stylesheet" href="/assets/syntax.css"     type="text/css">
+		{%- endif -%}
+		<link rel="icon"       href="/assets/favicon16.jpeg" type="image/jpeg" sizes="16x16">
+		<link rel="icon"       href="/assets/favicon32.jpeg" type="image/jpeg" sizes="32x32">
+		<link rel="icon"       href="/assets/favicon64.jpeg" type="image/jpeg" sizes="64x64">
 
 		<title>randacek.dev - {{page.title}}</title>
 	</head>

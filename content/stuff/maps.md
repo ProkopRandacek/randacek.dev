@@ -8,4 +8,4 @@ layout: default
 ******
 
 - [Our Minecraft SMP Map](/s/m/smp)
-<!--- [My Factorio Map](/)-->
+- [Factorio](/s/m/factorio)

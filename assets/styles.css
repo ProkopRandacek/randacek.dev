@@ -1,42 +1,42 @@
 @font-face {
-    font-family: "Inconsolata"
-    src: url(/assets/inconsolata.ttf) format("truetype")
+	font-family: "Inconsolata"
+	src: url(/assets/inconsolata.ttf) format("truetype")
 }
 
 * {
-    font-family: 'Inconsolata', monospace;
+	font-family: 'Inconsolata', monospace;
 	line-height: 1.3;
-    text-align: center;
-    color: #eeeeee;
-    margin: auto;
-    scrollbar-width: none;
+	text-align: center;
+	color: #eeeeee;
+	margin: auto;
+	scrollbar-width: none;
 }
 
 body {
-    margin: 0px;
-    background-color: #222831;
+	margin: 0px;
+	background-color: #222831;
 }
 
 h1, h3 {
-    margin-bottom: 5px;
-    margin-top: 20px;
+	margin-bottom: 5px;
+	margin-top: 20px;
 }
 
 h2 {
-    margin-top: 5px;
-    margin-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 hr {
-    margin-top: 2em;
-    margin-bottom: 1em;
-    border-color: #ff7315; 
+	margin-top: 2em;
+	margin-bottom: 1em;
+	border-color: #ff7315; 
 }
 
 .header {
-    text-align: center;
-    background-color: #393e46;
-    margin: 0px;
+	text-align: center;
+	background-color: #393e46;
+	margin: 0px;
 }
 
 .header h1 {
@@ -45,15 +45,15 @@ hr {
 }
 
 .content {
-    max-width: 700px;
-    padding-left: 1em;
-    padding-right: 1em;
+	max-width: 700px;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 .footer {
-    font-size: 70%;
-    padding-bottom: 5px;
-    padding-top: 3em;
+	font-size: 70%;
+	padding-bottom: 5px;
+	padding-top: 3em;
 }
 
 p { margin-bottom: 20px; }
@@ -67,4 +67,3 @@ input, select { color: black; }
 .navbar .current a { color: #ff7315; }
 .content, .content * { text-align: left; }
 ::-webkit-scrollbar { display: none; }
-

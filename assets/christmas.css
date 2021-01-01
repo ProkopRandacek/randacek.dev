@@ -1,0 +1,5 @@
+body { background-color: #b31315; }
+.header { background-color: #0b601c; }
+hr { border-color: #6bb85b; }
+.navbar .current a { color: #6bb85b; }
+.header * { color: #9bb85b; }

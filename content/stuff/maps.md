@@ -7,5 +7,5 @@ layout: default
 
 ******
 
-- [Our Minecraft SMP Map](/s/m/smp)
+- [Minecraft](/s/m/minecraft)
 - [Factorio](/s/m/factorio)
